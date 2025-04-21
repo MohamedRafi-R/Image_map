@@ -148,7 +148,8 @@ temple.html
 </html>
 ```
 # OUTPUT
-![alt text](map.png)
+![map png](https://github.com/user-attachments/assets/0edf3280-e4e8-4ecc-a1f8-793950a3d7ae)
+
 ![alt text](ashramam.png)
 ![alt text](hotel.png)
 ![alt text](imagica.png)
